@@ -1,0 +1,28 @@
+apple|яблоко
+sum|сумма
+point|точка
+free|бесплатный
+divide|разделить
+tipping|опрокидывающийся
+price|цена
+sunny|солнечный
+rain|дождь
+book | книга
+butTon | кнопка
+compare | сравнивать
+equate | сравнивать
+strike | бить
+strike | протестовать
+strike | атака
+left | уйти
+left | осталось
+left | лево
+leave | покидать
+flee | покидать
+exit | покидать
+yellow|желтый
+green|зеленый
+iron|железо
+free|свободный
+good morning | доброе утро
+tipping point|поворотный момент
